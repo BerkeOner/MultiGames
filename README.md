@@ -1,2 +1,3 @@
 # MultiGames
-Online game demo with multiple game modes.
+
+Multiplayer game I made using Photon, it has 5 game modes: Car Race, Space Checkpoint Race, Space Enemy Hunt, Tank Battle, Plane Wars.
